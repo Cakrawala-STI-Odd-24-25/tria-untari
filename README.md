@@ -1,2 +1,2 @@
-# tria-untari
+# untarii
 Tria Untari Sasmito Repository
